@@ -1,2 +1,2 @@
 # nipr2
-trial 
+https://erfan-ali47.github.io/nipr2/ 
