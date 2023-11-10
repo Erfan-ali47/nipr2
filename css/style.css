@@ -1,0 +1,16 @@
+/* banner3_start */
+.relex_bimg
+{padding: 0 12px;}
+.b3_content
+{}
+.b3_content h2
+{font-family: 'Lato-Regular',sans-serif; font-size: 30px; font-weight: 400; color: black; text-transform: uppercase;}
+.b3_content p
+{font-weight: 400; color: #b4b4b4;}
+.for_spara
+{padding: 10px 0;}
+.f_b
+{border: 1px solid; height: 35px; padding: 8px 20px; transform: translate(0, 90px); font-family: 'RobotoCondensed-Medium',sans-serif; font-size: 16px; font-weight: 600; color: black; text-transform: uppercase;}
+.f_b i
+{padding: 0 5px !important;}
+/* banner3_end */
